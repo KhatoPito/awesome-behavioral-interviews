@@ -68,7 +68,7 @@ You can clone the Notion page and fill this sheet based on your experience.
 **Disclaimer:** Please note that the provided sample responses to these questions are intended to serve as inspiration. During the actual interview, you should provide your own examples based on your past experiences.
 <details>
 <summary><b>Tell me about yourself.</b></summary>
-I am an Engineering Leader with over 13+  of experience in the tech industry, specializing in full-stack development. My journey in software development began with a bachelor's degree in Computer Science, which laid a solid foundation in programming and problem-solving skills.
+I am an Engineering Leader with over 12+  of experience in the tech industry, specializing in full-stack development. My journey in software development began with a bachelor's degree in Computer Science, which laid a solid foundation in programming and problem-solving skills.
 
 Throughout my career, I have worked with various technologies and programming languages, including JavaScript, Python, and Java. I have a strong background in developing web applications, and I am particularly passionate about creating user-friendly, efficient, and scalable solutions. My most recent role was with XYZ Tech, where I was part of a team that developed a cloud-based logistics management system. This project not only honed my technical skills but also improved my abilities in teamwork and communication.
 
